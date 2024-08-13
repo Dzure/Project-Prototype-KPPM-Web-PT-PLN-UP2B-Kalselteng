@@ -11,13 +11,13 @@
     </nav>
 </div>
 
-<div class="container">
+<div class="container" >
     @if ($profilUP2B)
-        <div class="card shadow p-4 mb-4">
+        <div class="card shadow p-4 mb-4" style="background: linear-gradient(135deg, #36d1dc, #5b86e5);">
             <p>{!! $profilUP2B->description !!}</p>
 
             @if ($profilUP2B->image)
-                <div class="text-center">
+                <div class="text-center" >
                     <img src="{{ asset($profilUP2B->image) }}" alt="Profil UP2B" class="img-fluid">
                 </div>
             @endif

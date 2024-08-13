@@ -12,8 +12,8 @@
         </ol>
       </nav>
     </div>
-    <div class="card">
-        <div class="card-body">
+    <div class="card" >
+        <div class="card-body" style="background: linear-gradient(135deg, #36d1dc, #5b86e5);">
             <h5 class="card-title">Tambah Foto Homepage</h5>
             <form id="BKform" action="/admin/photo-edit/store" method="POST" novalidate enctype="multipart/form-data">
                 @csrf

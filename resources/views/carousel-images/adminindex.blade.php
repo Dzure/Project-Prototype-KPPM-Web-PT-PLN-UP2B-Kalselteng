@@ -41,11 +41,11 @@
       @endif
     </div>
     <section class="section">
-      <div class="row">
+      <div class="row" >
         <div class="col-lg-6">
-          <div class="card">
+          <div class="card" style="background: linear-gradient(135deg, #36d1dc, #5b86e5);">
             <br>
-                <div class="card-body ">
+                <div class="card-body " >
                   <div class="text-center">
                     <h4>Edit Carousel</h4>
                   </div>
@@ -96,9 +96,9 @@
           </div>
         </div>
         <div class="col-lg-6">
-          <div class="card">
+          <div class="card" style="background: linear-gradient(135deg, #36d1dc, #5b86e5);">
               <br>
-              <div class="card-body" id='photoCard'>
+              <div class="card-body" id='photoCard' >
                   <div class="text-center">
                     <h4>Tambah Foto</h4>
                   </div>

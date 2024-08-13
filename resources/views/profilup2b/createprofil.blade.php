@@ -12,12 +12,12 @@
     </nav>
 </div>
 
-<div class="container mt-5">
-    <div class="card shadow p-4">
+<div class="container mt-5" >
+    <div class="card shadow p-4" >
         <form action="/admin/profilup2b" method="POST" enctype="multipart/form-data">
             @csrf
 
-            <div class="mb-4">
+            <div class="mb-4" >
                 <label for="description" class="form-label">Deskripsi:</label>
                 <textarea class="form-control" id="description" name="description" rows="4" required></textarea>
             </div>

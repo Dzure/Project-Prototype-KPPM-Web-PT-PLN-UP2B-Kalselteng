@@ -21,7 +21,7 @@
         </ol>
       </nav>
     </div>
-    <div class="card">
+    <div class="card" >
         <div class="card-body">
             <h5 class="card-title">Buat berita kegiatan</h5>
             <form id="BKform" action="/admin/beritakegiatan/store" method="POST" novalidate enctype="multipart/form-data">

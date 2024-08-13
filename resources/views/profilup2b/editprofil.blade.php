@@ -15,7 +15,7 @@
 <div class="pagetitle">
     <h1>Edit Profil</h1>
     <nav>
-        <ol class="breadcrumb">
+        <ol class="breadcrumb" >
             <li class="breadcrumb-item"><a href="/admin/beritakegiatan">Home</a></li>
             <li class="breadcrumb-item"><a href="/admin/profilup2b">Profil</a></li>
             <li class="breadcrumb-item active">Edit</li>

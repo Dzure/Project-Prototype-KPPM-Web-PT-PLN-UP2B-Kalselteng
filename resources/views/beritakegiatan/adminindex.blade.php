@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('content')
-    <div class="pagetitle" style="text-align: center;">
+    <div class="pagetitle" style="text-align: center;" >
       <h1>Kumpulan Berita Kegiatan</h1>
       <nav>
         <ol class="breadcrumb">
@@ -24,7 +24,7 @@
     <section class="section">
       <div class="row">
         <div class="col-lg-12">
-          <div class="card">
+          <div class="card" >
             <div class="card-body">
               <br>
               <a href="/admin/beritakegiatan/create" class="btn btn-primary">Buat Berita Kegiatan</a>
